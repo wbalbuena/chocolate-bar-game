@@ -1,0 +1,5 @@
+Two players take turns breaking a m x n chocolate bar, which has one spoiled 1 x 1 square.  Each break must be a single straight line cutting all the way across the bar along the boundaries between the squares.  After each break, the player who broke the bar last eats the piece that does not contain the spoiled square.  The player left with the spoiled square loses the game.
+
+The computer makes a winning move in a winning position and a random legitimate move in a losing position.
+
+Console-based. Moldy piece is random.
